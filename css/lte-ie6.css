@@ -1,0 +1,39 @@
+/*
+lte IE6 STYLESHEET
+(c) Jon Tan / gr0w.com 2007
+*/
+#discussions ol li.discussion-thumb,
+#sources ol li.source-thumb{
+position:relative;
+}
+div.masthead div.utilities ul{
+bottom:-0.063em;
+}
+#profile-details{
+height:8.125em;
+}
+#discussions ol li,
+#sources ol li{
+height:7.5em;
+}
+#discussions ol ul li,
+#sources ol ul li{
+height:auto;
+}
+#discussions ol ol li{
+height:3.750em;
+}
+.tour-top{
+background: url(../i/presentation/bg-tour-t-ie.png) 0 0 no-repeat;
+height:1%;
+}
+.tour-bottom{
+background: url(../i/presentation/bg-tour-b-ie.png) 0 100% no-repeat;
+}
+.right .tour-top{
+background: url(../i/presentation/bg-tour-t-right-ie.png) 0 0 no-repeat;
+}
+.down .tour-bottom{
+background: url(../i/presentation/bg-tour-b-down-ie.png) 0 100% no-repeat;
+position:relative;
+}
